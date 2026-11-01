@@ -159,12 +159,17 @@ npx hardhat run scripts/oracle.js --network sepolia
 
 ### Captures d'écran
 
-| | |
-|---|---|
-| Tableau de bord de la DApp | `docs/dapp-tableau-de-bord.png` |
-| Police indemnisée | `docs/police-indemnisee.png` |
-| Oracle dans le terminal | `docs/oracle-terminal.png` |
-| Contrat vérifié sur Etherscan | `docs/etherscan-verifie.png` |
+**Tableau de bord de la DApp**
+
+![Tableau de bord de la DApp](docs/dapp-tableau-de-bord.png)
+
+**Contrat vérifié sur Etherscan**
+
+![Contrat vérifié sur Etherscan](docs/etherscan-verifie.png)
+
+**Oracle en action (données réelles Open-Meteo)**
+
+![Oracle dans le terminal](docs/oracle-terminal.png)
 
 ## 7. Tokenomics
 
