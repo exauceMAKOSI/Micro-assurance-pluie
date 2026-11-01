@@ -9,10 +9,10 @@ Projet du cours de **Blockchain et cryptomonnaies** (Master 1, mention Mathémat
 
 | N° | Nom |
 |----|-----|
-| 1 | LUNGA KULENGA Jacky |
-| 2 | LWAULA SOKI Divin |
-| 3 | MAKOSI BORSON Exauce |
-| 4 | MANDANGI LUKOMBO Roldy |
+| 1 | MAKOSI BORSON Exauce |
+| 2 | MANDANGI LUKOMBO Roldy |
+| 3 | LUNGA KULENGA Jacky |
+| 4 | LWAULA SOKI Divin |
 
 ## Liens à vérifier
 
