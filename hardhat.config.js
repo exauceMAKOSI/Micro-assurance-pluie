@@ -9,8 +9,13 @@ module.exports = {
       accounts: process.env.PRIVATE_KEY
         ? [`0x${process.env.PRIVATE_KEY}`]
         : [],
+  gasReporter: {
+    enabled: true,
+    currency: "USD",
+  },
     },
   },
+  
   etherscan: {
     apiKey: process.env.ETHERSCAN_API_KEY,
   },
